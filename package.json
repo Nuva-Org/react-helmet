@@ -1,7 +1,7 @@
 {
   "name": "react-helmet",
   "description": "A document head manager for React",
-  "version": "6.1.0",
+  "version": "6.2.0",
   "main": "./lib/Helmet.js",
   "module": "./es/Helmet.js",
   "author": "NFL <engineers@nfl.com>",
@@ -28,8 +28,9 @@
     "noscript",
     "style"
   ],
-  "peerDependencies": {
-    "react": ">=16.3.0"
+   "peerDependencies": {
+    "react": "^16.13.1 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+    "react-dom": "^16.13.1 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "dependencies": {
     "object-assign": "^4.1.1",
