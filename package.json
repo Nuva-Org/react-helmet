@@ -1,5 +1,5 @@
 {
-  "name": "react-helmet",
+  "name": "@nuva-org/react-helmet",
   "description": "A document head manager for React",
   "version": "6.2.0",
   "main": "./lib/Helmet.js",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nfl/react-helmet"
+    "url": "https://github.com/Nuva-Org/react-helmet"
   },
   "keywords": [
     "react-helmet",
@@ -102,3 +102,4 @@
     }
   }
 }
+ 
